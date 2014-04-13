@@ -8,7 +8,7 @@ module.exports = function(grunt) {
       server: {
         options: {
           port: 8000,
-          base: './',
+          base: '.',
           keepalive: false,
           hostname: 'localhost',
           livereload: 'true'
@@ -17,7 +17,7 @@ module.exports = function(grunt) {
     },
     esteWatch: {
       options: {
-        dirs: ['.', 'app/**'],
+        dirs: ['app/**'],
         livereload: {
           enabled: true,
           extensions: ['html', 'js'],
