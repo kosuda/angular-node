@@ -1,5 +1,6 @@
 var app = angular.module('app', [
-  'ui.router'
+  'ui.router',
+  'directives.navbar'
 ]);
 
 app.config(function($stateProvider, $urlRouterProvider) {
