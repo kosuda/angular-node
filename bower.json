@@ -1,0 +1,32 @@
+{
+  "name": "shufflelunch",
+  "version": "0.0.0",
+  "authors": [
+    "tatsuya_kosuda"
+  ],
+  "description": "like advent calendar",
+  "main": "index.html",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "angularjs",
+    "shufflelunch"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "*",
+    "angular-ui-router": "~0.2.10"
+  }
+}

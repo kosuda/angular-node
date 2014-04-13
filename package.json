@@ -1,0 +1,20 @@
+{
+  "name": "shufflelunch",
+  "version": "0.0.0",
+  "description": "shuffle lunch system",
+  "main": "index.html",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "angularjs",
+    "shufflelunch"
+  ],
+  "author": "tatsuya_kosuda",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-este-watch": "^0.1.15"
+  }
+}
