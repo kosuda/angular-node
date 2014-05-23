@@ -1,4 +1,4 @@
-shufflelunch
+angular-node
 ============
 
-shuffle lunch system
+system which use angularjs and node.js
